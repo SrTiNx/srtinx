@@ -1,1 +1,1 @@
-# srtinx
+# srtinx github page
